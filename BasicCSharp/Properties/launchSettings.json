@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "BasicCSharp (Package)": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": true
+    },
+    "BasicCSharp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
